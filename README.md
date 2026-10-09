@@ -1,7 +1,7 @@
 # Claisrox — struktur modular
 
 ```
-claisrox/                  ← frontend statis (buka index.html atau serve folder ini)
+claisrox/                  ← frontend statis (buka index.html atau serve folder ini) 
 ├── index.html             markup + urutan load CSS/JS saja
 ├── assets/                logo.png, logo-mark.png (gambar lain taruh di sini)
 ├── css/                   SEMUA konfigurasi UI
